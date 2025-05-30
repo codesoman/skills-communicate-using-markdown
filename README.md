@@ -8,7 +8,7 @@
 -->
 
 # Communicate using Markdown
-
+# ME working by using markdown
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -43,6 +43,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 1. Commit your changes.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+## This is just the first step in a long journey of learning 
 <footer>
 
 <!--
